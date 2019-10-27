@@ -1,0 +1,58 @@
+This is your grade report from the Autograder ran on 2019-02-19 01:57:55. 
+For this project we ran 1 evaluation(s) on your committed code. On the nb_eval evaluation you scored 0 points with our tests. Unfortunately, you failed 3159 test(s) on this evaluation: 	F	a	i	l	e	d	 	T	e	s	t	 	1	 	n	a	i	v	e	b	a	y	e	s	P	Y	:	 	P	r	o	b	a	b	i	l	i	t	i	e	s	 	o	f	 	P	(	Y	)	 	d	o	 	n	o	t	 	s	u	m	 	t	o	 	1	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	4	0	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	p	o	s	,	n	e	g	 	=	 	n	a	i	v	e	b	a	y	e	s	P	Y	(	x	T	r	,	y	T	r	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	P	Y	.	p	y	"	,	 	l	i	n	e	 	4	3	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	P	Y	
+	 	 	 	 	r	e	t	u	r	n	 	p	o	s	,	n	e	g	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	p	o	s	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	2	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	:	 	T	h	e	 	c	a	l	c	u	l	a	t	i	o	n	 	o	f	 	P	(	Y	)	 	s	e	e	m	s	 	i	n	c	o	r	r	e	c	t	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	6	2	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	p	o	s	,	n	e	g	 	=	 	n	a	i	v	e	b	a	y	e	s	P	Y	(	x	,	y	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	P	Y	.	p	y	"	,	 	l	i	n	e	 	4	3	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	P	Y	
+	 	 	 	 	r	e	t	u	r	n	 	p	o	s	,	n	e	g	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	p	o	s	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	3	:	 	T	h	e	 	c	a	l	c	u	l	a	t	i	o	n	 	o	f	 	P	(	X	|	Y	)	 	s	e	e	m	s	 	i	n	c	o	r	r	e	c	t	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	8	6	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	p	o	s	p	o	s	s	i	,	n	e	g	p	o	s	s	i	 	=	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	(	x	,	y	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	P	X	Y	.	p	y	"	,	 	l	i	n	e	 	4	8	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	
+	 	 	 	 	r	e	t	u	r	n	 	p	o	s	p	r	o	b	,	n	e	g	p	r	o	b	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	p	o	s	p	r	o	b	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	4	~	8	:	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	 	f	a	i	l	e	d	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	1	0	7	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	p	o	s	p	o	s	s	i	,	n	e	g	p	o	s	s	i	 	=	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	(	x	T	r	,	y	T	r	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	P	X	Y	.	p	y	"	,	 	l	i	n	e	 	4	8	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	P	X	Y	
+	 	 	 	 	r	e	t	u	r	n	 	p	o	s	p	r	o	b	,	n	e	g	p	r	o	b	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	p	o	s	p	r	o	b	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	9	:	 	 	T	h	e	 	c	a	l	c	u	l	a	t	i	o	n	 	o	f	 	l	o	g	 	P	(	Y	=	1	|	X	)	/	P	(	Y	=	-	1	|	X	)	 	s	e	e	m	s	 	i	n	c	o	r	r	e	c	t	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	1	5	4	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	l	o	g	r	a	t	i	o	 	=	 	n	a	i	v	e	b	a	y	e	s	(	x	,	y	,	n	p	.	m	a	t	r	i	x	(	[	[	1	]	,	[	1	]	]	)	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	.	p	y	"	,	 	l	i	n	e	 	3	8	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	
+	 	 	 	 	r	e	t	u	r	n	 	l	o	g	r	a	t	i	o	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	l	o	g	r	a	t	i	o	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	1	0	:	 	 	N	a	i	v	e	 	B	a	y	e	s	 	s	e	e	m	s	 	i	n	c	o	r	r	e	c	t	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	1	7	3	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	w	,	b	 	=	 	n	a	i	v	e	b	a	y	e	s	C	L	(	x	,	y	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	C	L	.	p	y	"	,	 	l	i	n	e	 	3	7	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	C	L	
+	 	 	 	 	r	e	t	u	r	n	 	w	,	b	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	w	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+	F	a	i	l	e	d	 	T	e	s	t	 	1	1	:	 	 	N	a	i	v	e	 	B	a	y	e	s	 	T	r	a	i	n	i	n	g	 	a	c	c	u	r	a	c	y	 	<	=	 	0	.	6	 	-	-	 	t	h	i	s	 	s	e	e	m	s	 	l	i	k	e	 	a	 	b	a	d	 	c	l	a	s	s	i	f	i	e	r	.	
+	T	r	a	c	e	b	a	c	k	 	(	m	o	s	t	 	r	e	c	e	n	t	 	c	a	l	l	 	l	a	s	t	)	:	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	b	_	t	e	s	t	s	.	p	y	"	,	 	l	i	n	e	 	1	9	3	,	 	i	n	 	n	b	_	t	e	s	t	s	
+	 	 	 	 	w	,	b	 	=	 	n	a	i	v	e	b	a	y	e	s	C	L	(	x	T	r	,	y	T	r	)	
+	 	 	F	i	l	e	 	"	/	h	o	m	e	/	w	a	r	e	h	o	u	s	e	/	c	s	e	5	1	7	a	/	c	s	e	5	1	7	a	/	s	e	r	v	e	r	/	a	u	t	o	g	r	a	d	e	r	/	g	r	a	d	i	n	g	_	t	e	m	p	/	p	r	o	j	e	c	t	2	/	s	h	a	o	h	u	a	/	n	a	i	v	e	b	a	y	e	s	C	L	.	p	y	"	,	 	l	i	n	e	 	3	7	,	 	i	n	 	n	a	i	v	e	b	a	y	e	s	C	L	
+	 	 	 	 	r	e	t	u	r	n	 	w	,	b	
+	N	a	m	e	E	r	r	o	r	:	 	n	a	m	e	 	'	w	'	 	i	s	 	n	o	t	 	d	e	f	i	n	e	d	
+	
+For this project, you scored a total of 0 points.

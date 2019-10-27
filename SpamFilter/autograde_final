@@ -1,0 +1,12 @@
+The autograder ran into an exception when running your code.Traceback (most recent call last):
+  File "/home/warehouse/cse517a/cse517a/server/autograder/grading_temp/project1/shaohua/grade.py", line 40, in grade
+    testScore,msgs,extraScore = evalHand();
+  File "/home/warehouse/cse517a/cse517a/server/autograder/grading_temp/project1/shaohua/srm_eval.py", line 15, in srm_eval
+    incorrect, ok, msgs=srm_tests()
+  File "/home/warehouse/cse517a/cse517a/server/autograder/grading_temp/project1/shaohua/srm_tests.py", line 48, in srm_tests
+    d=checkgradLogistic(logistic,np.random.rand(D,1),1e-05,x,y)
+  File "/home/warehouse/cse517a/cse517a/server/autograder/grading_temp/project1/shaohua/checkgradLogistic.py", line 21, in checkgradLogistic
+    y0,dy = f(X,x,y)   # get the partial derivatives dy
+  File "/home/warehouse/cse517a/cse517a/server/autograder/grading_temp/project1/shaohua/logistic.py", line 21, in logistic
+    return loss,gradient
+NameError: name 'loss' is not defined
